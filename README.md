@@ -1,0 +1,1 @@
+This function of this program is to use the mig IP core to write large amounts of data into DDR3, and then read the data, which is different from the typical example program that implements reading while writing
